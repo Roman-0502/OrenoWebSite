@@ -6,7 +6,7 @@ permalink: /
 おはようございます。   
 情報学部1回生の菊岡です！今から自己紹介をます。
 
-![image](/GHPages_WebSite/assets/images/ore.jpg)  ←これです。
+![image](/OrenoWebSite/assets/images/ore.jpg)  ←これです。
 
 **名前** : 菊岡陽太  
 **出身** : 枚方（大阪）→ 郡山（福島）→ 八尾（大阪）  
