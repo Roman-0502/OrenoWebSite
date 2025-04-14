@@ -3,10 +3,12 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
+#自己紹介　
 
+おはようございます。   
+情報学部1回生の菊岡です！今から自己紹介をます。
 
-パラパッパッパラッパー
-
+![image](/GHPages_WebSite/assets/images/ore.jpg)
 
 
 ---
